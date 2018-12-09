@@ -9,4 +9,4 @@ paperurl: ''
 citation: 'Z. Zhang, D. Liu, S. Zhu, S. Chen, X. Tian. (2016). &quot;Squeeze More from the Fingerprints Reporting Strategy for Indoor Localization.&quot; <i>Proc. IEEE SECON</i>. '
 ---
 
-[PDF](http://zhehuizhang.github.io/files/paper1.pdf)
+[PDF](http://zhehuizhang.github.io/files/secon16.pdf)
