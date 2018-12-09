@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Enabling Mobile VR in LTE Networks: How Close Are We?"
 collection: publications
 permalink: /publication/sigmetrics18
 excerpt: 'In this work, we study the viability of supporting mobile VR over operational 4G LTE networks, where the device provides pose information to the edge servers to offload graphical processing. We find that, contrary to common perceptions, wireless bandwidth is not the latency bottleneck for medium-quality VR. Instead, the signaling operations, which facilitate wireless data delivery, constitute a bulk portion of the latency.'
