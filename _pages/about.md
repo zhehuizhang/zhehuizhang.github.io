@@ -12,7 +12,7 @@ Zhehui Zhang is a third-year Ph.D. student in Computer Science at University of 
 
 Her research interests include: mobile and wireless networks, mobile computing, network and system security. Her resume is available [here](http://zhehuizhang.github.io/files/resume.pdf).
 
-Selected publications ([Google scholar](https://scholar.google.com/citations?user=kYSsG4QAAAAJ)):
+**Selected publications** ([Google scholar](https://scholar.google.com/citations?user=kYSsG4QAAAAJ)):
 
 Z. Tan, Y. Li, Q. Li, **Z. Zhang**, Z. Li, S. Lu. (2018) *Enabling Mobile VR in LTE Networks: How Close Are We?*, SIGMETRICS.[[PDF]](http://zhehuizhang.github.io/files/sigmetrics18.pdf)[[Bib]](http://zhehuizhang.github.io/files/sigmetrics18.bib)[[Slides]](http://zhehuizhang.github.io/files/sigmetrics18_slides.pdf)[[Poster]](http://zhehuizhang.github.io/files/sigmetrics18_poster.pdf)
 
