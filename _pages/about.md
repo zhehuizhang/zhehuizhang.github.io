@@ -22,6 +22,6 @@ M. Wang, **Z. Zhang**, X. Tian, X. Wang. (2016) *Temporal Correlation of the RSS
 
 Z. Yang, **Z. Zhang**, Y. Bao, X. Gan, X. Tian, X. Wang. (2016) *OnTac: Online task assignment for crowdsourcing*, Proc. IEEE ICC.[[PDF]](http://zhehuizhang.github.io/files/icc16.pdf)[[Bib]](http://zhehuizhang.github.io/files/icc16.bib)
 
-X. Tian, W. Li, Y. Yang, **Z. Zhang**, X. Wang. (2016) *Optimization of fingerprints reporting strategy for wlan indoor localization*, IEEE Trans. on Mobile Computing.[[PDF]](http://zhehuizhang.github.io/files/tmc16.pdf)[[Bib]](http://zhehuizhang.github.io/files/tmc16.bib)
+X. Tian, W. Li, Y. Yang, **Z. Zhang**, X. Wang. (2016) *Optimization of fingerprints reporting strategy for wlan indoor localization*, IEEE Trans. on Mobile Computing.[[PDF]](http://zhehuizhang.github.io/files/tmc18.pdf)[[Bib]](http://zhehuizhang.github.io/files/tmc18.bib)
 
 
