@@ -14,7 +14,7 @@ Her research interests include: mobile and wireless networks, mobile computing, 
 
 **Selected publications** ([Google scholar](https://scholar.google.com/citations?user=kYSsG4QAAAAJ)):
 
-Z. Tan, Y. Li, Q. Li, **Z. Zhang**, Z. Li, S. Lu. (2018) *Enabling Mobile VR in LTE Networks: How Close Are We?*, SIGMETRICS.[[PDF]](http://zhehuizhang.github.io/files/sigmetrics18.pdf)[[Bib]](http://zhehuizhang.github.io/files/sigmetrics18.bib)[[Slides]](http://zhehuizhang.github.io/files/sigmetrics18_slides.pdf)[[Poster]](http://zhehuizhang.github.io/files/sigmetrics18_poster.pdf)
+Z. Tan, Y. Li, Q. Li, **Z. Zhang**, Z. Li, S. Lu. (2018) *Enabling Mobile VR in LTE Networks: How Close Are We?*, Proc. ACM SIGMETRICS.[[PDF]](http://zhehuizhang.github.io/files/sigmetrics18.pdf)[[Bib]](http://zhehuizhang.github.io/files/sigmetrics18.bib)[[Slides]](http://zhehuizhang.github.io/files/sigmetrics18_slides.pdf)[[Poster]](http://zhehuizhang.github.io/files/sigmetrics18_poster.pdf)
 
 **Z. Zhang**, D. Liu, S. Zhu, S. Chen, X. Tian. (2016) *Squeeze More from the Fingerprints Reporting Strategy for Indoor Localization*, Proc. IEEE SECON.[[PDF]](http://zhehuizhang.github.io/files/secon16.pdf)[[Bib]](http://zhehuizhang.github.io/files/secon16.bib)
 
