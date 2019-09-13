@@ -12,6 +12,7 @@ Zhehui Zhang is a Ph.D. student in Computer Science at University of California,
 
 Her research interests include: mobile and wireless networks, mobile computing, network and system security. Her resume is available [here](http://zhehuizhang.github.io/files/resume.pdf).
 
+
 **Experiences**
 
 June 2019 - September 2019, Research Intern @ **Alibaba** - Network Research Team , Sunnyvale CA
@@ -23,6 +24,7 @@ June 2017 - August 2017, Visiting Scholar @ **Ohio State University** - Mobile N
 June 2013 - June 2016, Student Research Assistant @ **Shanghai Jiao Tong Univeristy** - Intelligent IoT Lab, Shanghai
 
 April 2016 - June 2016, Software Engineer Intern @ **Intel** - Big Data Team, Shanghai
+
 
 **Selected publications** ([Google scholar](https://scholar.google.com/citations?user=kYSsG4QAAAAJ)):
 
