@@ -15,10 +15,10 @@ Her research interests include: mobile and wireless networks, mobile computing, 
 
 **Experiences**
 
-Summer 2019, Research Intern @ **Alibaba** - Network Research Team , Sunnyvale CA   
-Summer 2018, Research Intern @ **AT&T Labs** - Network Service Quality Management BU, Bedminster NJ  
-Summer 2017, Visiting Scholar @ **Ohio State University** - Mobile Network Group, Columbus OH  
-Spring 2016, Software Engineer Intern @ **Intel** - Big Data Team, Shanghai  
+Summer 2019, Research Intern @ **Alibaba** - Sunnyvale CA   
+Summer 2018, Research Intern @ **AT&T Labs** - Bedminster NJ  
+Summer 2017, Visiting Scholar @ **Ohio State University** - Columbus OH  
+Spring 2016, Software Engineer Intern @ **Intel** - Shanghai  
 
 **Selected publications** ([Google scholar](https://scholar.google.com/citations?user=kYSsG4QAAAAJ)):
 
