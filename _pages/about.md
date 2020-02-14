@@ -24,7 +24,7 @@ Spring 2016, Software Engineer Intern @ **Intel** - Shanghai
 
 **Z. Zhang**, S. Shi, V. Gupta, R. Jana. (2019) *Analysis of Cellular Network Latency for Edge-Based Remote Rendering Streaming Applications*, ACM SIGCOMM 2019 Workshop on NEAT. [[Pre-print]](http://zhehuizhang.github.io/files/NEAT19_Zhang.pdf)
 
-Z. Tan, Y. Li, Q. Li, **Z. Zhang**, Z. Li, S. Lu. (2018) *Enabling Mobile VR in LTE Networks: How Close Are We?*, Proc. ACM SIGMETRICS.[[PDF]](http://zhehuizhang.github.io/files/sigmetrics18.pdf)[[Bib]](http://zhehuizhang.github.io/files/sigmetrics18.bib)[[Slides]](http://zhehuizhang.github.io/files/sigmetrics18_slides.pdf)[[Poster]](http://zhehuizhang.github.io/files/sigmetrics18_poster.pdf)
+Z. Tan, Y. Li, Q. Li, **Z. Zhang**, Z. Li, S. Lu. (2018) *Enabling Mobile VR in LTE Networks: How Close Are We?*, Proc. ACM SIGMETRICS.[[PDF]](http://zhehuizhang.github.io/files/sigmetrics18.pdf)[[Bib]](http://zhehuizhang.github.io/files/sigmetrics18.bib)
 
 X. Tian, W. Li, Y. Yang, **Z. Zhang**, X. Wang. (2018) *Optimization of fingerprints reporting strategy for wlan indoor localization*, IEEE Trans. on Mobile Computing.[[PDF]](http://zhehuizhang.github.io/files/tmc18.pdf)[[Bib]](http://zhehuizhang.github.io/files/tmc18.bib)
 
