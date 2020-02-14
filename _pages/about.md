@@ -22,7 +22,7 @@ Spring 2016, Software Engineer Intern @ **Intel** - Shanghai
 
 **Selected publications** ([Google scholar](https://scholar.google.com/citations?user=kYSsG4QAAAAJ)):
 
-**Z. Zhang**, S. Shu, V. Gupta, R. Jana. (2019) *Analysis of Cellular Network Latency for Edge-Based Remote Rendering Streaming Applications*, ACM SIGCOMM 2019 Workshop on NEAT. [[Pre-print]](http://zhehuizhang.github.io/files/NEAT19_Zhang.pdf)
+**Z. Zhang**, S. Shi, V. Gupta, R. Jana. (2019) *Analysis of Cellular Network Latency for Edge-Based Remote Rendering Streaming Applications*, ACM SIGCOMM 2019 Workshop on NEAT. [[Pre-print]](http://zhehuizhang.github.io/files/NEAT19_Zhang.pdf)
 
 Z. Tan, Y. Li, Q. Li, **Z. Zhang**, Z. Li, S. Lu. (2018) *Enabling Mobile VR in LTE Networks: How Close Are We?*, Proc. ACM SIGMETRICS.[[PDF]](http://zhehuizhang.github.io/files/sigmetrics18.pdf)[[Bib]](http://zhehuizhang.github.io/files/sigmetrics18.bib)[[Slides]](http://zhehuizhang.github.io/files/sigmetrics18_slides.pdf)[[Poster]](http://zhehuizhang.github.io/files/sigmetrics18_poster.pdf)
 
