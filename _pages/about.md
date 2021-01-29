@@ -12,7 +12,6 @@ Zhehui Zhang is a Ph.D. student in Computer Science at University of California,
 
 Her research interests include: mobile and wireless networks, mobile computing, network and system security. Her resume is available [here](http://zhehuizhang.github.io/files/resume.pdf).
 
-
 **Experiences**
 
 Summer 2019, Research Intern @ **Alibaba** - Sunnyvale CA   
@@ -22,15 +21,22 @@ Spring 2016, Software Engineer Intern @ **Intel** - Shanghai
 
 **Selected publications** ([Google scholar](https://scholar.google.com/citations?user=kYSsG4QAAAAJ)):
 
-**Z. Zhang**, S. Shi, V. Gupta, R. Jana. (2019) *Analysis of Cellular Network Latency for Edge-Based Remote Rendering Streaming Applications*, ACM SIGCOMM 2019 Workshop on NEAT. [[Pre-print]](http://zhehuizhang.github.io/files/NEAT19_Zhang.pdf)
+Y. Li, Q. Li, **Z. Zhang**, G. Baig, L. Qiu, S. Lu. (2020) *Beyond 5G: Reliable Extreme Mobility Management*, ACM SIGCOMM 2020. [[PDF]](http://zhehuizhang.github.io/files/sigcomm20.pdf)
+
+**Z. Zhang**, S. Shi, V. Gupta, R. Jana. (2019) *Analysis of Cellular Network Latency for Edge-Based Remote Rendering Streaming Applications*, ACM SIGCOMM 2019 Workshop on NEAT. [[PDF]](http://zhehuizhang.github.io/files/NEAT19_Zhang.pdf)
 
 Z. Tan, Y. Li, Q. Li, **Z. Zhang**, Z. Li, S. Lu. (2018) *Enabling Mobile VR in LTE Networks: How Close Are We?*, Proc. ACM SIGMETRICS.[[PDF]](http://zhehuizhang.github.io/files/sigmetrics18.pdf)[[Bib]](http://zhehuizhang.github.io/files/sigmetrics18.bib)
-
-X. Tian, W. Li, Y. Yang, **Z. Zhang**, X. Wang. (2018) *Optimization of fingerprints reporting strategy for wlan indoor localization*, IEEE Trans. on Mobile Computing.[[PDF]](http://zhehuizhang.github.io/files/tmc18.pdf)[[Bib]](http://zhehuizhang.github.io/files/tmc18.bib)
 
 **Z. Zhang**, D. Liu, S. Zhu, S. Chen, X. Tian. (2016) *Squeeze More from the Fingerprints Reporting Strategy for Indoor Localization*, Proc. IEEE SECON.[[PDF]](http://zhehuizhang.github.io/files/secon16.pdf)[[Bib]](http://zhehuizhang.github.io/files/secon16.bib)
 
 M. Wang, **Z. Zhang**, X. Tian, X. Wang. (2016) *Temporal Correlation of the RSS Improves Accuracy of Fingerprinting Localization*, Proc. IEEE INFOCOM.[[PDF]](http://zhehuizhang.github.io/files/infocom16.pdf)[[Bib]](http://zhehuizhang.github.io/files/infocom16.bib)
 
+**Teaching services**
 
-
+CS262A Learning and Reasoning with Bayesian Networks, TA
+CS31 Introduction to Computer Science I, TA
+CS118 Computer Network Fundamentals, TA
+CS1 Freshman Computer Science Seminar, TA
+CS180 Introduction to Algorithms and Complexity, TA
+CS136 Introduction to Computer Security, TA
+CS219 Current Topics in Computer System Modeling Analysis: Cloud Computing, Mentor
