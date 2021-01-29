@@ -33,10 +33,10 @@ M. Wang, **Z. Zhang**, X. Tian, X. Wang. (2016) *Temporal Correlation of the RSS
 
 **Teaching services**
 
-CS262A Learning and Reasoning with Bayesian Networks, TA
-CS31 Introduction to Computer Science I, TA
-CS118 Computer Network Fundamentals, TA
-CS1 Freshman Computer Science Seminar, TA
-CS180 Introduction to Algorithms and Complexity, TA
-CS136 Introduction to Computer Security, TA
-CS219 Current Topics in Computer System Modeling Analysis: Cloud Computing, Mentor
+CS262A Learning and Reasoning with Bayesian Networks, TA  
+CS31 Introduction to Computer Science I, TA   
+CS118 Computer Network Fundamentals, TA   
+CS1 Freshman Computer Science Seminar, TA   
+CS180 Introduction to Algorithms and Complexity, TA   
+CS136 Introduction to Computer Security, TA   
+CS219 Current Topics in Computer System Modeling Analysis: Cloud Computing, Mentor    
