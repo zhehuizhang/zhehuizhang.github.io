@@ -21,7 +21,7 @@ Spring 2016, Software Engineer Intern @ **Intel** - Shanghai
 
 **Selected publications** ([Google scholar](https://scholar.google.com/citations?user=kYSsG4QAAAAJ)):
 
-Y. Li, C. Peng, Z. Zhang, Z. Tan, H. Deng, J. Zhao, Q. Li, Y. Guo, K. Ling, B. Ding, H. Li, S. Lu. Experience: A Five-Year Retrospective of MobileInsight. MobiCom, 2021.
+Y. Li, C. Peng, **Z. Zhang**, Z. Tan, H. Deng, J. Zhao, Q. Li, Y. Guo, K. Ling, B. Ding, H. Li, S. Lu. Experience: A Five-Year Retrospective of MobileInsight. MobiCom, 2021.
 
 Y. Li, Q. Li, **Z. Zhang**, G. Baig, L. Qiu, S. Lu. (2020) *Beyond 5G: Reliable Extreme Mobility Management*, ACM SIGCOMM 2020. [[PDF]](http://zhehuizhang.github.io/files/sigcomm20.pdf)
 
