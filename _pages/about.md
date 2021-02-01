@@ -10,7 +10,7 @@ redirect_from:
 
 Zhehui Zhang is a Ph.D. student in Computer Science at University of California, Los Angeles, advised by Prof. [Songwu Lu](http://web.cs.ucla.edu/~slu/on_research.html). Prior to UCLA, She received B.Sci. from Shanghai Jiao Tong University, under the supervision of Prof. [Xinbing Wang](http://iwct.sjtu.edu.cn/Personal/xwang8/) and Prof. [Xiaohua Tian](http://iwct.sjtu.edu.cn/Personal/xtian/).
 
-Her research interests include: mobile and wireless networks, mobile computing, network and system security. Her resume is available [here](http://zhehuizhang.github.io/files/resume.pdf).
+Her research interests include: mobile and wireless networks, mobile computing, network and system security. Her resume is available [here](http://zhehuizhang.github.io/files/Resume-Zhehui-Jan21.pdf).
 
 **Experiences**
 
@@ -21,7 +21,7 @@ Spring 2016, Software Engineer Intern @ **Intel** - Shanghai
 
 **Selected publications** ([Google scholar](https://scholar.google.com/citations?user=kYSsG4QAAAAJ)):
 
-Y. Li, C. Peng, **Z. Zhang**, Z. Tan, H. Deng, J. Zhao, Q. Li, Y. Guo, K. Ling, B. Ding, H. Li, S. Lu. Experience: A Five-Year Retrospective of MobileInsight. MobiCom, 2021.
+Y. Li, C. Peng, **Z. Zhang**, Z. Tan, H. Deng, J. Zhao, Q. Li, Y. Guo, K. Ling, B. Ding, H. Li, S. Lu. (2021) *Experience: A Five-Year Retrospective of MobileInsight*, ACM MobiCom, 2021.
 
 Y. Li, Q. Li, **Z. Zhang**, G. Baig, L. Qiu, S. Lu. (2020) *Beyond 5G: Reliable Extreme Mobility Management*, ACM SIGCOMM 2020. [[PDF]](http://zhehuizhang.github.io/files/sigcomm20.pdf)
 
