@@ -21,17 +21,19 @@ Spring 2016, Software Engineer Intern @ **Intel** - Shanghai
 
 **Selected publications** ([Google scholar](https://scholar.google.com/citations?user=kYSsG4QAAAAJ)):
 
-Y. Li, C. Peng, **Z. Zhang**, Z. Tan, H. Deng, J. Zhao, Q. Li, Y. Guo, K. Ling, B. Ding, H. Li, S. Lu. (2021) *Experience: A Five-Year Retrospective of MobileInsight*, ACM MobiCom, 2021.
+**Zhehui Zhang**, Haiyang Zheng, Jiayao Hu, Xiangning Yu, Chenchen Qi, Xuemei Shi, Guohui Wang. (2021) *Hashing Linearity Enables Relative Path Control in Data Centers*, USENIX ATC, 2021.
 
-Y. Li, Q. Li, **Z. Zhang**, G. Baig, L. Qiu, S. Lu. (2020) *Beyond 5G: Reliable Extreme Mobility Management*, ACM SIGCOMM 2020. [[PDF]](http://zhehuizhang.github.io/files/sigcomm20.pdf)
+Yuanjie Li, Chunyi Peng, **Zhehui Zhang**, Zhaowei Tan, Haotian Deng, Jinghao Zhao, Qianru Li, Yunqi Guo, Kai Ling, Boyan Ding, Hewu Li, Songwu Lu. (2021) *Experience: A Five-Year Retrospective of MobileInsight*, ACM MobiCom, 2021.
 
-**Z. Zhang**, S. Shi, V. Gupta, R. Jana. (2019) *Analysis of Cellular Network Latency for Edge-Based Remote Rendering Streaming Applications*, ACM SIGCOMM 2019 Workshop on NEAT. [[PDF]](http://zhehuizhang.github.io/files/NEAT19_Zhang.pdf)
+Yuanjie Li, Qianru Li, **Zhehui Zhang**, Ghufran Baig, Lili Qiu, Songwu Lu. (2020) *Beyond 5G: Reliable Extreme Mobility Management*, ACM SIGCOMM 2020. [[PDF]](http://zhehuizhang.github.io/files/sigcomm20.pdf)
 
-Z. Tan, Y. Li, Q. Li, **Z. Zhang**, Z. Li, S. Lu. (2018) *Enabling Mobile VR in LTE Networks: How Close Are We?*, Proc. ACM SIGMETRICS.[[PDF]](http://zhehuizhang.github.io/files/sigmetrics18.pdf)[[Bib]](http://zhehuizhang.github.io/files/sigmetrics18.bib)
+**Zhehui Zhang**, Shu Shi, Varun Gupta, Rittwik Jana. (2019) *Analysis of Cellular Network Latency for Edge-Based Remote Rendering Streaming Applications*, ACM SIGCOMM 2019 Workshop on NEAT. [[PDF]](http://zhehuizhang.github.io/files/NEAT19_Zhang.pdf)
 
-**Z. Zhang**, D. Liu, S. Zhu, S. Chen, X. Tian. (2016) *Squeeze More from the Fingerprints Reporting Strategy for Indoor Localization*, Proc. IEEE SECON.[[PDF]](http://zhehuizhang.github.io/files/secon16.pdf)[[Bib]](http://zhehuizhang.github.io/files/secon16.bib)
+Zhaowei Tan, Yuanjie Li, Qianru Li, **Zhehui Zhang**, Zhehan Li, Songwu Lu. (2018) *Enabling Mobile VR in LTE Networks: How Close Are We?*, Proc. ACM SIGMETRICS.[[PDF]](http://zhehuizhang.github.io/files/sigmetrics18.pdf)[[Bib]](http://zhehuizhang.github.io/files/sigmetrics18.bib)
 
-M. Wang, **Z. Zhang**, X. Tian, X. Wang. (2016) *Temporal Correlation of the RSS Improves Accuracy of Fingerprinting Localization*, Proc. IEEE INFOCOM.[[PDF]](http://zhehuizhang.github.io/files/infocom16.pdf)[[Bib]](http://zhehuizhang.github.io/files/infocom16.bib)
+**Zhehui Zhang**, Duowen Liu, Sujie Zhu, Shangjie Chen, Xiaohua Tian. (2016) *Squeeze More from the Fingerprints Reporting Strategy for Indoor Localization*, Proc. IEEE SECON.[[PDF]](http://zhehuizhang.github.io/files/secon16.pdf)[[Bib]](http://zhehuizhang.github.io/files/secon16.bib)
+
+Mei Wang, **Zhehui Zhang**, Xiaohua Tian, Xinbing Wang. (2016) *Temporal Correlation of the RSS Improves Accuracy of Fingerprinting Localization*, Proc. IEEE INFOCOM.[[PDF]](http://zhehuizhang.github.io/files/infocom16.pdf)[[Bib]](http://zhehuizhang.github.io/files/infocom16.bib)
 
 **Teaching services**
 
