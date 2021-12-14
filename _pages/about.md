@@ -14,6 +14,7 @@ Her research interests include: mobile and wireless networks, mobile computing, 
 
 **Experiences**
 
+Summer 2021, Research Intern @ **Microsoft** - Virtual   
 Summer 2019, Research Intern @ **Alibaba** - Sunnyvale CA   
 Summer 2018, Research Intern @ **AT&T Labs** - Bedminster NJ  
 Summer 2017, Visiting Scholar @ **Ohio State University** - Columbus OH  
@@ -22,6 +23,8 @@ Spring 2016, Software Engineer Intern @ **Intel** - Shanghai
 **Selected publications** ([Google scholar](https://scholar.google.com/citations?user=kYSsG4QAAAAJ)):
 
 **Zhehui Zhang**, Haiyang Zheng, Jiayao Hu, Xiangning Yu, Chenchen Qi, Xuemei Shi, Guohui Wang. (2021) *Hashing Linearity Enables Relative Path Control in Data Centers*, USENIX ATC, 2021.
+
+Zhaowei Tan, Boyan Ding, **Zhehui Zhang**, Qianru Li, Yunqi Guo, Songwu Lu. (2021) "Device-Centric Detection and Mitigation of Diameter Signaling Attacks against Mobile Core*, IEEE CNS, 2021.
 
 Yuanjie Li, Chunyi Peng, **Zhehui Zhang**, Zhaowei Tan, Haotian Deng, Jinghao Zhao, Qianru Li, Yunqi Guo, Kai Ling, Boyan Ding, Hewu Li, Songwu Lu. (2021) *Experience: A Five-Year Retrospective of MobileInsight*, ACM MobiCom, 2021.
 
@@ -35,12 +38,18 @@ Zhaowei Tan, Yuanjie Li, Qianru Li, **Zhehui Zhang**, Zhehan Li, Songwu Lu. (201
 
 Mei Wang, **Zhehui Zhang**, Xiaohua Tian, Xinbing Wang. (2016) *Temporal Correlation of the RSS Improves Accuracy of Fingerprinting Localization*, Proc. IEEE INFOCOM.[[PDF]](http://zhehuizhang.github.io/files/infocom16.pdf)[[Bib]](http://zhehuizhang.github.io/files/infocom16.bib)
 
-**Teaching services**
+**Teaching and mentoring**
 
 CS262A Learning and Reasoning with Bayesian Networks, TA  
-CS31 Introduction to Computer Science I, TA   
 CS118 Computer Network Fundamentals, TA   
-CS1 Freshman Computer Science Seminar, TA   
 CS180 Introduction to Algorithms and Complexity, TA   
-CS136 Introduction to Computer Security, TA   
+CS136 Introduction to Computer Security, TA  
+CS31 Introduction to Computer Science I, TA   
+CS1 Freshman Computer Science Seminar, TA    
 CS219 Current Topics in Computer System Modeling Analysis: Cloud Computing, Mentor    
+CS211 Network Protocol and Systems Software Design for Wireless and Mobile, Mentor
+
+**Services**
+Reviewer for **IEEE TVT**
+Externel reviewer for **MobiCom, INFOCOM**
+Local Committe for **SIGCOMM N2Woman 2017**
