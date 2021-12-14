@@ -50,6 +50,7 @@ CS219 Current Topics in Computer System Modeling Analysis: Cloud Computing, Ment
 CS211 Network Protocol and Systems Software Design for Wireless and Mobile, Mentor
 
 **Services**
-Reviewer for **IEEE TVT**
-Externel reviewer for **MobiCom, INFOCOM**
-Local Committe for **SIGCOMM N2Woman 2017**
+
+Reviewer for **IEEE TVT**  
+Externel reviewer for **MobiCom, INFOCOM**  
+Local Committe for **SIGCOMM N2Woman 2017**  
