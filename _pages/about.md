@@ -24,7 +24,7 @@ Spring 2016, Software Engineer Intern @ **Intel** - Shanghai
 
 **Zhehui Zhang**, Haiyang Zheng, Jiayao Hu, Xiangning Yu, Chenchen Qi, Xuemei Shi, Guohui Wang. (2021) *Hashing Linearity Enables Relative Path Control in Data Centers*, USENIX ATC, 2021.
 
-Zhaowei Tan, Boyan Ding, **Zhehui Zhang**, Qianru Li, Yunqi Guo, Songwu Lu. (2021) "Device-Centric Detection and Mitigation of Diameter Signaling Attacks against Mobile Core*, IEEE CNS, 2021.
+Zhaowei Tan, Boyan Ding, **Zhehui Zhang**, Qianru Li, Yunqi Guo, Songwu Lu. (2021) *Device-Centric Detection and Mitigation of Diameter Signaling Attacks against Mobile Core*, IEEE CNS, 2021.
 
 Yuanjie Li, Chunyi Peng, **Zhehui Zhang**, Zhaowei Tan, Haotian Deng, Jinghao Zhao, Qianru Li, Yunqi Guo, Kai Ling, Boyan Ding, Hewu Li, Songwu Lu. (2021) *Experience: A Five-Year Retrospective of MobileInsight*, ACM MobiCom, 2021.
 
