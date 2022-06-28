@@ -38,9 +38,9 @@ Yuanjie Li, Qianru Li, **Zhehui Zhang**, Ghufran Baig, Lili Qiu, Songwu Lu. *Bey
 
 Zhaowei Tan, Yuanjie Li, Qianru Li, **Zhehui Zhang**, Zhehan Li, Songwu Lu. *Enabling Mobile VR in LTE Networks: How Close Are We?*, Proc. ACM SIGMETRICS, 2018.[[PDF]](http://zhehuizhang.github.io/files/sigmetrics18.pdf)[[Bib]](http://zhehuizhang.github.io/files/sigmetrics18.bib)
 
-**Zhehui Zhang**, Duowen Liu, Sujie Zhu, Shangjie Chen, Xiaohua Tian. *Squeeze More from the Fingerprints Reporting Strategy for Indoor Localization*, Proc. IEEE SECON, 2016.[[PDF]](http://zhehuizhang.github.io/files/secon16.pdf)[[Bib]](http://zhehuizhang.github.io/files/secon16.bib)
+**Zhehui Zhang**, Duowen Liu, Sujie Zhu, Shangjie Chen, Xiaohua Tian. *Squeeze More from the Fingerprints Reporting Strategy for Indoor Localization*, IEEE SECON, 2016.[[PDF]](http://zhehuizhang.github.io/files/secon16.pdf)[[Bib]](http://zhehuizhang.github.io/files/secon16.bib)
 
-Mei Wang, **Zhehui Zhang**, Xiaohua Tian, Xinbing Wang. *Temporal Correlation of the RSS Improves Accuracy of Fingerprinting Localization*, Proc. IEEE INFOCOM, 2016.[[PDF]](http://zhehuizhang.github.io/files/infocom16.pdf)[[Bib]](http://zhehuizhang.github.io/files/infocom16.bib)
+Mei Wang, **Zhehui Zhang**, Xiaohua Tian, Xinbing Wang. *Temporal Correlation of the RSS Improves Accuracy of Fingerprinting Localization*, IEEE INFOCOM, 2016.[[PDF]](http://zhehuizhang.github.io/files/infocom16.pdf)[[Bib]](http://zhehuizhang.github.io/files/infocom16.bib)
 
 **Teaching and mentoring**
 
