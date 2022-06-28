@@ -10,7 +10,7 @@ redirect_from:
 
 Zhehui Zhang is a Ph.D. student in Computer Science at University of California, Los Angeles, advised by Prof. [Songwu Lu](http://web.cs.ucla.edu/~slu/on_research.html). Prior to UCLA, She received B.S. from Shanghai Jiao Tong University, under the supervision of Prof. [Xinbing Wang](http://iwct.sjtu.edu.cn/Personal/xwang8/) and Prof. [Xiaohua Tian](http://iwct.sjtu.edu.cn/Personal/xtian/).
 
-Her research interests include: mobile and wireless networks, mobile computing, network and system security. Her resume is available [here](http://zhehuizhang.github.io/files/Resume-Zhehui-Jan21.pdf).
+Her research interests include: mobile and wireless networks, mobile computing, network and system security. Her resume is available [here](http://zhehuizhang.github.io/files/Resume-Zhehui-June22.pdf).
 
 **Experiences**
 
@@ -36,7 +36,7 @@ Yuanjie Li, Qianru Li, **Zhehui Zhang**, Ghufran Baig, Lili Qiu, Songwu Lu. *Bey
 
 **Zhehui Zhang**, Shu Shi, Varun Gupta, Rittwik Jana. *Analysis of Cellular Network Latency for Edge-Based Remote Rendering Streaming Applications*, ACM SIGCOMM 2019 Workshop on NEAT, 2019. [[PDF]](http://zhehuizhang.github.io/files/NEAT19_Zhang.pdf)
 
-Zhaowei Tan, Yuanjie Li, Qianru Li, **Zhehui Zhang**, Zhehan Li, Songwu Lu. *Enabling Mobile VR in LTE Networks: How Close Are We?*, Proc. ACM SIGMETRICS, 2018.[[PDF]](http://zhehuizhang.github.io/files/sigmetrics18.pdf)[[Bib]](http://zhehuizhang.github.io/files/sigmetrics18.bib)
+Zhaowei Tan, Yuanjie Li, Qianru Li, **Zhehui Zhang**, Zhehan Li, Songwu Lu. *Enabling Mobile VR in LTE Networks: How Close Are We?*, ACM SIGMETRICS, 2018.[[PDF]](http://zhehuizhang.github.io/files/sigmetrics18.pdf)[[Bib]](http://zhehuizhang.github.io/files/sigmetrics18.bib)
 
 **Zhehui Zhang**, Duowen Liu, Sujie Zhu, Shangjie Chen, Xiaohua Tian. *Squeeze More from the Fingerprints Reporting Strategy for Indoor Localization*, IEEE SECON, 2016.[[PDF]](http://zhehuizhang.github.io/files/secon16.pdf)[[Bib]](http://zhehuizhang.github.io/files/secon16.bib)
 
