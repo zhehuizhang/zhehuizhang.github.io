@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Zhehui Zhang is a Ph.D. student in Computer Science at University of California, Los Angeles, advised by Prof. [Songwu Lu](http://web.cs.ucla.edu/~slu/on_research.html). Prior to UCLA, She received B.S. from Shanghai Jiao Tong University, under the supervision of Prof. [Xinbing Wang](http://iwct.sjtu.edu.cn/Personal/xwang8/) and Prof. [Xiaohua Tian](http://iwct.sjtu.edu.cn/Personal/xtian/).
+Zhehui Zhang got her Ph.D. degree in Computer Science at University of California, Los Angeles, advised by Prof. [Songwu Lu](http://web.cs.ucla.edu/~slu/on_research.html). Prior to UCLA, She received B.S. from Shanghai Jiao Tong University, under the supervision of Prof. [Xinbing Wang](http://iwct.sjtu.edu.cn/Personal/xwang8/) and Prof. [Xiaohua Tian](http://iwct.sjtu.edu.cn/Personal/xtian/).
 
 Her research interests include: mobile and wireless networks, mobile computing, network and system security. Her resume is available [here](http://zhehuizhang.github.io/files/Resume-Zhehui-June22.pdf).
 
@@ -21,6 +21,8 @@ Summer 2017, Visiting Scholar @ **Ohio State University** - Columbus OH
 Spring 2016, Software Engineer Intern @ **Intel** - Shanghai  
 
 **Selected publications** ([Google scholar](https://scholar.google.com/citations?user=kYSsG4QAAAAJ)):
+
+**Zhehui Zhang**. *Embracing Mmwave for XG in the Sky: A Cross-Domain Approach*, UCLA Theses and Dissertations, 2022.
 
 **Zhehui Zhang**, Yuanjie Li, Qianru Li, Jinghao Zhao, Ghufran Baig, Lili Qiu, Songwu Lu. *Movement-Based Reliable Mobility Management for Beyond 5G Cellular Networks*, IEEE/ACM Transactions on Networking (TON), 2022.
 
